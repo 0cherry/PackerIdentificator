@@ -1,0 +1,507 @@
+platform,architecture,packer,option,name,seq1,seq2,seq3,seq4,seq5,seq6,seq7,seq8,seq9,seq10,seq11,seq12,seq13,seq14,seq15
+Windows8,32bit,ASPack,Default,RecoveryDrive.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows7,32bit,ASPack,Default,BrmfRsmg.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows7,32bit,ASPack,Default,hwrcomp.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,diskraid.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,isoburn.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows7,32bit,ASPack,Default,chglogon.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,ComputerDefaults.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,dfrgui.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,SpeechUXWiz.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,NETSTAT.EXE,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,phoneactivate.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,qwinsta.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows7,32bit,ASPack,Default,iscsicpl.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,query.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,SystemPropertiesHardware.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,change.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,manage-bde.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,SystemPropertiesPerformance.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows7,32bit,ASPack,Default,cmstp.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,WMIC.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows7,32bit,ASPack,Default,SnippingTool.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows7,32bit,ASPack,Default,logoff.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,netcfg.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,dxdiag.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,hwrcomp.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows7,32bit,ASPack,Default,SndVol.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,PATHPING.EXE,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows8,32bit,ASPack,Default,RunLegacyCPLElevated.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows7,32bit,ASPack,Default,gpupdate.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows7,32bit,ASPack,Default,TsUsbRedirectionGroupPolicyControl.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows7,32bit,ASPack,Default,rasphone.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows7,32bit,ASPack,Default,ieUnatt.exe,96.0,232.0,3.0,0.0,0.0,0.0,233.0,235.0,4.0,93.0,69.0,85.0,195.0,232.0,1.0
+Windows7,32bit,ASProtect,Default,tracerpt.exe,104.0,1.0,240.0,7.0,1.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,206.0,225.0,222.0
+Windows7,32bit,ASProtect,Default,cscript.exe,104.0,1.0,48.0,2.0,1.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,124.0,39.0,110.0
+Windows7,32bit,ASProtect,Default,resmon.exe,104.0,1.0,192.0,1.0,1.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,121.0,94.0,199.0
+Windows7,32bit,ASProtect,Default,VSSVC.exe,104.0,1.0,208.0,15.0,1.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,88.0,76.0,38.0
+Windows8,32bit,ASProtect,Default,verifier.exe,104.0,1.0,48.0,66.0,0.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,24.0,200.0,143.0
+Windows8,32bit,ASProtect,Default,klist.exe,104.0,1.0,176.0,64.0,0.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,138.0,175.0,10.0
+Windows7,32bit,ASProtect,Default,sc.exe,104.0,1.0,192.0,0.0,1.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,46.0,234.0,160.0
+Windows8,32bit,ASProtect,Default,rstrui.exe,104.0,1.0,0.0,68.0,0.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,168.0,43.0,50.0
+Windows8,32bit,ASProtect,Default,NetEvtFwdr.exe,104.0,1.0,192.0,64.0,0.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,146.0,133.0,238.0
+Windows8,32bit,ASProtect,Default,sfc.exe,104.0,1.0,192.0,64.0,0.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,231.0,184.0,154.0
+Windows8,32bit,ASProtect,Default,winresume.exe,104.0,1.0,208.0,86.0,0.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,130.0,172.0,149.0
+Windows7,32bit,ASProtect,Default,conhost.exe,104.0,1.0,80.0,4.0,1.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,198.0,16.0,241.0
+Windows10,32bit,ASProtect,Default,Dxpserver.exe,104.0,1.0,240.0,67.0,0.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,116.0,148.0,0.0
+Windows7,32bit,ASProtect,Default,tskill.exe,104.0,1.0,144.0,0.0,1.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,116.0,182.0,95.0
+Windows7,32bit,ASProtect,Default,mfpmp.exe,104.0,1.0,144.0,0.0,1.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,46.0,123.0,199.0
+Windows10,32bit,ASProtect,Default,dpapimig.exe,104.0,1.0,96.0,65.0,0.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,103.0,210.0,124.0
+Windows8,32bit,ASProtect,Default,CertEnrollCtrl.exe,104.0,1.0,224.0,64.0,0.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,143.0,45.0,174.0
+Windows7,32bit,ASProtect,Default,rdpclip.exe,104.0,1.0,0.0,3.0,1.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,136.0,148.0,207.0
+Windows7,32bit,ASProtect,Default,pcawrk.exe,104.0,1.0,96.0,0.0,1.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,131.0,14.0,59.0
+Windows10,32bit,ASProtect,Default,calc.exe,104.0,1.0,160.0,64.0,0.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,114.0,209.0,187.0
+Windows8,32bit,ASProtect,Default,msoobe.exe,104.0,1.0,64.0,66.0,0.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,53.0,148.0,244.0
+Windows7,32bit,ASProtect,Default,setx.exe,104.0,1.0,224.0,0.0,1.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,25.0,64.0,211.0
+Windows7,32bit,ASProtect,Default,autofmt.exe,104.0,1.0,64.0,10.0,1.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,27.0,55.0,93.0
+Windows7,32bit,ASProtect,Default,migwiz.exe,104.0,1.0,208.0,6.0,1.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,122.0,43.0,186.0
+Windows7,32bit,ASProtect,Default,mshta.exe,104.0,1.0,240.0,0.0,1.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,202.0,232.0,235.0
+Windows8,32bit,ASProtect,Default,PickerHost.exe,104.0,1.0,144.0,64.0,0.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,15.0,182.0,178.0
+Windows8,32bit,ASProtect,Default,msconfig.exe,104.0,1.0,176.0,66.0,0.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,128.0,157.0,229.0
+Windows7,32bit,ASProtect,Default,runonce.exe,104.0,1.0,240.0,0.0,1.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,243.0,191.0,14.0
+Windows7,32bit,ASProtect,Default,poqexec.exe,104.0,1.0,32.0,2.0,1.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,170.0,36.0,74.0
+Windows8,32bit,ASProtect,Default,isoburn.exe,104.0,1.0,144.0,65.0,0.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,196.0,170.0,241.0
+Windows8,32bit,ASProtect,Default,ARP.EXE,104.0,1.0,128.0,64.0,0.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,80.0,116.0,101.0
+Windows8,32bit,ASProtect,Default,setupsqm.exe,104.0,1.0,144.0,64.0,0.0,232.0,1.0,0.0,0.0,0.0,195.0,195.0,135.0,137.0,111.0
+Windows7,32bit,EnigmaProtector,Default,tsdiscon_protected.exe,235.0,8.0,0.0,82.0,3.0,0.0,0.0,0.0,0.0,0.0,96.0,232.0,0.0,0.0,0.0
+Windows10,32bit,EnigmaProtector,Default,iexpress_protected.exe,235.0,8.0,0.0,186.0,4.0,0.0,0.0,0.0,0.0,0.0,96.0,232.0,0.0,0.0,0.0
+Windows7,32bit,EnigmaProtector,Default,NetProj_protected.exe,235.0,8.0,0.0,116.0,4.0,0.0,0.0,0.0,0.0,0.0,96.0,232.0,0.0,0.0,0.0
+Windows10,32bit,EnigmaProtector,Default,WorkFolders_protected.exe,235.0,8.0,0.0,80.0,4.0,0.0,0.0,0.0,0.0,0.0,96.0,232.0,0.0,0.0,0.0
+Windows7,32bit,EnigmaProtector,Default,AxInstUI_protected.exe,235.0,8.0,0.0,246.0,3.0,0.0,0.0,0.0,0.0,0.0,96.0,232.0,0.0,0.0,0.0
+Windows7,32bit,EnigmaProtector,Default,schtasks_protected.exe,235.0,8.0,0.0,52.0,4.0,0.0,0.0,0.0,0.0,0.0,96.0,232.0,0.0,0.0,0.0
+Windows7,32bit,EnigmaProtector,Default,osk_protected.exe,235.0,8.0,0.0,246.0,8.0,0.0,0.0,0.0,0.0,0.0,96.0,232.0,0.0,0.0,0.0
+Windows7,32bit,EnigmaProtector,Default,chgusr_protected.exe,235.0,8.0,0.0,80.0,3.0,0.0,0.0,0.0,0.0,0.0,96.0,232.0,0.0,0.0,0.0
+Windows7,32bit,EnigmaProtector,Default,SystemPropertiesRemote_protected.exe,235.0,8.0,0.0,88.0,4.0,0.0,0.0,0.0,0.0,0.0,96.0,232.0,0.0,0.0,0.0
+Windows7,32bit,EnigmaProtector,Default,diskperf_protected.exe,235.0,8.0,0.0,74.0,3.0,0.0,0.0,0.0,0.0,0.0,96.0,232.0,0.0,0.0,0.0
+Windows10,32bit,EnigmaProtector,Default,DevicePairingWizard_protected.exe,235.0,8.0,0.0,44.0,4.0,0.0,0.0,0.0,0.0,0.0,96.0,232.0,0.0,0.0,0.0
+Windows7,32bit,EnigmaProtector,Default,xcopy_protected.exe,235.0,8.0,0.0,100.0,3.0,0.0,0.0,0.0,0.0,0.0,96.0,232.0,0.0,0.0,0.0
+Windows7,32bit,EnigmaProtector,Default,tabcal_protected.exe,235.0,8.0,0.0,238.0,3.0,0.0,0.0,0.0,0.0,0.0,96.0,232.0,0.0,0.0,0.0
+Windows7,32bit,EnigmaProtector,Default,SystemPropertiesHardware_protected.exe,235.0,8.0,0.0,88.0,4.0,0.0,0.0,0.0,0.0,0.0,96.0,232.0,0.0,0.0,0.0
+Windows8,32bit,mpress,Default,qappsrv.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,159.0,2.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,compact.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,159.0,2.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,ucsvc.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,NAPSTAT.EXE,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,IMTCPROP.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows7,32bit,mpress,Default,vssadmin.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows7,32bit,mpress,Default,verifier.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,baaupdate.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,159.0,2.0,0.0,0.0,139.0,48.0,3.0
+Windows7,32bit,mpress,Default,Dism.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows7,32bit,mpress,Default,cmmon32.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,RmClient.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,159.0,2.0,0.0,0.0,139.0,48.0,3.0
+Windows7,32bit,mpress,Default,systray.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,159.0,2.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,reset.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,159.0,2.0,0.0,0.0,139.0,48.0,3.0
+Windows7,32bit,mpress,Default,VaultSysUi.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,control.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,159.0,2.0,0.0,0.0,139.0,48.0,3.0
+Windows7,32bit,mpress,Default,rrinstaller.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows7,32bit,mpress,Default,msdt.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows10,32bit,mpress,Default,DFDWiz.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,SrTasks.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows7,32bit,mpress,Default,powershell_ise.exe,255.0,37.0,0.0,32.0,64.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Windows7,32bit,mpress,Default,mtstocom.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,WinSAT.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,SpaceAgent.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows10,32bit,mpress,Default,WorkFolders.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,w32tm.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,phoneactivate.exe,232.0,207.0,4.0,0.0,0.0,233.0,227.0,253.0,255.0,255.0,204.0,204.0,204.0,204.0,204.0
+Windows7,32bit,mpress,Default,BitLockerWizard.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,159.0,2.0,0.0,0.0,139.0,48.0,3.0
+Windows7,32bit,mpress,Default,colorcpl.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,159.0,2.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,Eap3Host.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,159.0,2.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,IMTCLNWZ.EXE,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,ARP.EXE,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,159.0,2.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,replace.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,159.0,2.0,0.0,0.0,139.0,48.0,3.0
+Windows8,32bit,mpress,Default,wiaacmgr.exe,96.0,232.0,0.0,0.0,0.0,0.0,88.0,5.0,90.0,11.0,0.0,0.0,139.0,48.0,3.0
+Windows7,32bit,Themida,Disable Level2,prevhost.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows8,32bit,Themida,Disable Level2,NETSTAT.EXE,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows10,32bit,Themida,Advanced Level2,credwiz.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows8,32bit,Themida,Disable Level2,tcmsetup.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows8,32bit,Themida,Disable Level2,SecEdit.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows8,32bit,Themida,Disable Level2,easinvoker.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows10,32bit,Themida,Advanced Level2,EhStorAuthn.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Themida,Disable Level2,dvdupgrd.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Themida,Disable Level2,gpupdate.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows10,32bit,Themida,Advanced Disable,manage-bde.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Themida,Disable Level2,winrs.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows8,32bit,Themida,Disable Level2,dfp.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows8,32bit,Themida,Disable Level2,msdtc.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Themida,Disable Level2,TSTheme.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Themida,Disable Level2,BdeUISrv.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows10,32bit,Themida,Ultra Level2,PrintIsolationHost.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows10,32bit,Themida,Ultra Level2,fontview.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows10,32bit,Themida,Ultra Level2,bthudtask.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Themida,Disable Level2,runonce.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows10,32bit,Themida,Advanced Level2,LaunchTM.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Themida,Disable Level2,ntprint.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Themida,Disable Level2,IMJPUEX.EXE,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows8,32bit,Themida,Disable Level2,doskey.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows8,32bit,Themida,Disable Level2,icacls.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Themida,Disable Level2,SystemPropertiesProtection.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows8,32bit,Themida,Disable Level2,DWWIN.EXE,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Themida,Disable Level2,findstr.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows10,32bit,Themida,Ultra Disable,fhmanagew.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Themida,Disable Level2,sdbinst.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Themida,Disable Level2,fsquirt.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Themida,Disable Level2,raserver.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows8,32bit,Themida,Disable Level2,powershell_ise.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows10,32bit,Themida,Advanced Level1,cttune.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows8,32bit,Themida,Disable Level2,Setup.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Themida,Disable Level2,tzutil.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Themida,Disable Level2,TpmInit.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows8,32bit,Themida,Disable Level2,WPDShextAutoplay.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows10,32bit,Themida,Ultra Level2,write.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Themida,Disable Level2,sysprep.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows8,32bit,Themida,Disable Level2,gpupdate.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows10,32bit,Themida,Advanced Level1,fontview.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows10,32bit,Themida,Disable Level1,cmd.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows10,32bit,Themida,Advanced Level1,dfrgui.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,137.0,195.0,64.0,45.0,0.0
+Windows7,32bit,Original,Default,sethc.exe,232.0,146.0,4.0,0.0,0.0,233.0,78.0,253.0,255.0,255.0,204.0,204.0,204.0,204.0,204.0
+Windows8,32bit,Original,Default,printui.exe,232.0,179.0,2.0,0.0,0.0,233.0,174.0,253.0,255.0,255.0,204.0,204.0,204.0,204.0,204.0
+Windows8,32bit,Original,Default,cscript.exe,232.0,202.0,246.0,255.0,255.0,232.0,10.0,0.0,0.0,0.0,233.0,206.0,218.0,255.0,255.0
+Windows7,32bit,Original,Default,IMCCPHR.exe,232.0,2.0,5.0,0.0,0.0,233.0,77.0,253.0,255.0,255.0,204.0,204.0,204.0,204.0,204.0
+Windows8,32bit,Original,Default,bthudtask.exe,232.0,195.0,2.0,0.0,0.0,233.0,46.0,254.0,255.0,255.0,204.0,204.0,204.0,204.0,204.0
+Windows8,32bit,Original,Default,fsquirt.exe,232.0,51.0,6.0,0.0,0.0,233.0,5.0,0.0,0.0,0.0,204.0,204.0,204.0,204.0,204.0
+Windows8,32bit,Original,Default,WinMgmt.exe,232.0,19.0,4.0,0.0,0.0,233.0,46.0,254.0,255.0,255.0,204.0,204.0,204.0,204.0,204.0
+Windows8,32bit,Original,Default,SndVol.exe,232.0,138.0,5.0,0.0,0.0,233.0,105.0,253.0,255.0,255.0,255.0,37.0,204.0,178.0,65.0
+Windows8,32bit,Original,Default,control.exe,232.0,243.0,4.0,0.0,0.0,233.0,5.0,0.0,0.0,0.0,204.0,204.0,204.0,204.0,204.0
+Windows8,32bit,Original,Default,dxdiag.exe,232.0,198.0,57.0,0.0,0.0,233.0,5.0,0.0,0.0,0.0,204.0,204.0,204.0,204.0,204.0
+Windows7,32bit,Obsidium,Default,IMJPDCT.EXE,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,DFDWiz.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,autochk.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,sort.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows7,32bit,Obsidium,Default,upnpcont.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,ROUTE.EXE,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,RuntimeBroker.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,LicensingUI.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows7,32bit,Obsidium,Default,nslookup.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,bcdboot.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,RunLegacyCPLElevated.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows7,32bit,Obsidium,Default,PrintBrm.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,IMEWDBLD.EXE,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows7,32bit,Obsidium,Default,sysprep.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,bdechangepin.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,SysResetErr.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,osk.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,write.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows7,32bit,Obsidium,Default,EhStorAuthn.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows7,32bit,Obsidium,Default,msoobe.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows10,32bit,Obsidium,Default,credwiz.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows10,32bit,Obsidium,Default,dvdplay.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,cmdl32.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows7,32bit,Obsidium,Default,cmstp.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,pwlauncher.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,cscript.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,mobsync.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows7,32bit,Obsidium,Default,cacls.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows7,32bit,Obsidium,Default,fontview.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,shutdown.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows8,32bit,Obsidium,Default,csrstub.exe,235.0,2.0,1.0,25.0,80.0,235.0,3.0,38.0,229.0,139.0,232.0,22.0,0.0,0.0,0.0
+Windows7,32bit,UPX,Default,bootcfg.exe,96.0,190.0,0.0,0.0,1.0,1.0,141.0,190.0,0.0,16.0,255.0,255.0,87.0,235.0,11.0
+Windows8,32bit,UPX,Default,vdsldr.exe,96.0,190.0,0.0,144.0,64.0,0.0,141.0,190.0,0.0,128.0,255.0,255.0,87.0,131.0,205.0
+Windows8,32bit,UPX,Default,wiaacmgr.exe,96.0,190.0,0.0,96.0,65.0,0.0,141.0,190.0,0.0,176.0,254.0,255.0,87.0,131.0,205.0
+Windows8,32bit,UPX,Default,mspaint.exe,96.0,190.0,0.0,32.0,127.0,0.0,141.0,190.0,0.0,240.0,192.0,255.0,87.0,131.0,205.0
+Windows7,32bit,UPX,Default,VaultSysUi.exe,96.0,190.0,0.0,160.0,0.0,1.0,141.0,190.0,0.0,112.0,255.0,255.0,87.0,131.0,205.0
+Windows8,32bit,UPX,Default,sdiagnhost.exe,96.0,190.0,0.0,144.0,64.0,0.0,141.0,190.0,0.0,128.0,255.0,255.0,87.0,131.0,205.0
+Windows7,32bit,UPX,Default,comp.exe,96.0,190.0,0.0,144.0,0.0,1.0,141.0,190.0,0.0,128.0,255.0,255.0,87.0,235.0,11.0
+Windows7,32bit,UPX,Default,charmap.exe,96.0,190.0,0.0,80.0,4.0,1.0,141.0,190.0,0.0,192.0,251.0,255.0,87.0,235.0,11.0
+Windows7,32bit,UPX,Default,rrinstaller.exe,96.0,190.0,0.0,176.0,0.0,1.0,141.0,190.0,0.0,96.0,255.0,255.0,87.0,235.0,11.0
+Windows8,32bit,UPX,Default,rmttpmvscmgrsvr.exe,96.0,190.0,0.0,96.0,65.0,0.0,141.0,190.0,0.0,176.0,254.0,255.0,87.0,131.0,205.0
+Windows7,32bit,UPX,Default,LocationNotifications.exe,96.0,190.0,0.0,144.0,1.0,1.0,141.0,190.0,0.0,128.0,254.0,255.0,87.0,235.0,11.0
+Windows7,32bit,UPX,Default,DevicePairingWizard.exe,96.0,190.0,0.0,64.0,1.0,1.0,141.0,190.0,0.0,208.0,254.0,255.0,87.0,235.0,11.0
+Windows7,32bit,UPX,Default,nltest.exe,96.0,190.0,0.0,128.0,4.0,1.0,141.0,190.0,0.0,144.0,251.0,255.0,87.0,235.0,11.0
+Windows8,32bit,UPX,Default,makecab.exe,96.0,190.0,0.0,224.0,64.0,0.0,141.0,190.0,0.0,48.0,255.0,255.0,87.0,131.0,205.0
+Windows8,32bit,UPX,Default,upnpcont.exe,96.0,190.0,0.0,160.0,64.0,0.0,141.0,190.0,0.0,112.0,255.0,255.0,87.0,131.0,205.0
+Windows8,32bit,UPX,Default,immersivetpmvscmgrsvr.exe,96.0,190.0,0.0,112.0,65.0,0.0,141.0,190.0,0.0,160.0,254.0,255.0,87.0,131.0,205.0
+Windows8,32bit,UPX,Default,pwlauncher.exe,96.0,190.0,0.0,144.0,64.0,0.0,141.0,190.0,0.0,128.0,255.0,255.0,87.0,131.0,205.0
+Windows7,32bit,UPX,Default,fvenotify.exe,96.0,190.0,0.0,240.0,1.0,1.0,141.0,190.0,0.0,32.0,254.0,255.0,87.0,235.0,11.0
+Windows10,32bit,UPX,Default,fsquirt.exe,96.0,190.0,0.0,208.0,65.0,0.0,141.0,190.0,0.0,64.0,254.0,255.0,87.0,235.0,11.0
+Windows8,32bit,UPX,Default,hwrreg.exe,96.0,190.0,0.0,0.0,67.0,0.0,141.0,190.0,0.0,16.0,253.0,255.0,87.0,131.0,205.0
+Windows7,32bit,UPX,Default,RpcPing.exe,96.0,190.0,0.0,160.0,0.0,1.0,141.0,190.0,0.0,112.0,255.0,255.0,87.0,235.0,11.0
+Windows8,32bit,UPX,Default,tskill.exe,96.0,190.0,0.0,144.0,64.0,0.0,141.0,190.0,0.0,128.0,255.0,255.0,87.0,131.0,205.0
+Windows8,32bit,UPX,Default,convert.exe,96.0,190.0,0.0,128.0,64.0,0.0,141.0,190.0,0.0,144.0,255.0,255.0,87.0,131.0,205.0
+Windows8,32bit,UPX,Default,ByteCodeGenerator.exe,96.0,190.0,0.0,144.0,64.0,0.0,141.0,190.0,0.0,128.0,255.0,255.0,87.0,131.0,205.0
+Windows8,32bit,UPX,Default,wevtutil.exe,96.0,190.0,0.0,32.0,66.0,0.0,141.0,190.0,0.0,240.0,253.0,255.0,87.0,131.0,205.0
+Windows8,32bit,UPX,Default,RMActivate_ssp_isv.exe,96.0,190.0,0.0,240.0,67.0,0.0,141.0,190.0,0.0,32.0,252.0,255.0,87.0,131.0,205.0
+Windows7,32bit,UPX,Default,verclsid.exe,96.0,190.0,0.0,112.0,0.0,1.0,141.0,190.0,0.0,160.0,255.0,255.0,87.0,235.0,11.0
+Windows10,32bit,UPX,Default,FXSSVC.exe,96.0,190.0,0.0,208.0,69.0,0.0,141.0,190.0,0.0,64.0,250.0,255.0,87.0,235.0,11.0
+Windows7,32bit,UPX,Default,baaupdate.exe,96.0,190.0,0.0,224.0,1.0,1.0,141.0,190.0,0.0,48.0,254.0,255.0,87.0,235.0,11.0
+Windows7,32bit,VMProtect,Default,cacls.vmp.exe,235.0,8.0,116.0,1.0,45.0,0.0,0.0,0.0,0.0,0.0,233.0,177.0,39.0,252.0,255.0
+Windows7,32bit,VMProtect,Default,msiexec.vmp.exe,235.0,8.0,134.0,210.0,40.0,0.0,0.0,0.0,0.0,0.0,233.0,248.0,16.0,3.0,0.0
+Windows7,32bit,VMProtect,Default,subst.vmp.exe,235.0,8.0,245.0,221.0,7.0,0.0,0.0,0.0,0.0,0.0,233.0,248.0,222.0,253.0,255.0
+Windows7,32bit,VMProtect,Default,resmon.vmp.exe,235.0,8.0,228.0,118.0,5.0,0.0,0.0,0.0,0.0,0.0,233.0,214.0,179.0,36.0,0.0
+Windows7,32bit,VMProtect,Default,IMEPADSV.vmp.EXE,235.0,8.0,58.0,209.0,14.0,0.0,0.0,0.0,0.0,0.0,233.0,178.0,119.0,250.0,255.0
+Windows7,32bit,VMProtect,Default,dpapimig.vmp.exe,235.0,8.0,223.0,253.0,37.0,0.0,0.0,0.0,0.0,0.0,233.0,72.0,202.0,10.0,0.0
+Windows7,32bit,VMProtect,Default,ditrace.vmp.exe,235.0,8.0,151.0,225.0,12.0,0.0,0.0,0.0,0.0,0.0,233.0,224.0,162.0,255.0,255.0
+Windows7,32bit,VMProtect,Default,dcomcnfg.vmp.exe,235.0,8.0,133.0,141.0,0.0,0.0,0.0,0.0,0.0,0.0,233.0,41.0,125.0,9.0,0.0
+Windows7,32bit,VMProtect,Default,imjpuexc.vmp.exe,235.0,8.0,233.0,198.0,47.0,0.0,0.0,0.0,0.0,0.0,233.0,91.0,151.0,212.0,255.0
+Windows7,32bit,VMProtect,Default,IMJPUEX.vmp.EXE,235.0,8.0,26.0,15.0,6.0,0.0,0.0,0.0,0.0,0.0,233.0,61.0,210.0,255.0,255.0
+Windows7,32bit,VMProtect,Default,wextract.vmp.exe,235.0,8.0,72.0,194.0,41.0,0.0,0.0,0.0,0.0,0.0,233.0,73.0,184.0,249.0,255.0
+Windows7,32bit,VMProtect,Default,rdrleakdiag.vmp.exe,235.0,8.0,102.0,176.0,43.0,0.0,0.0,0.0,0.0,0.0,233.0,217.0,47.0,213.0,255.0
+Windows7,32bit,VMProtect,Default,runas.vmp.exe,235.0,8.0,56.0,18.0,43.0,0.0,0.0,0.0,0.0,0.0,233.0,67.0,175.0,218.0,255.0
+Windows7,32bit,VMProtect,Default,cttunesvr.vmp.exe,235.0,8.0,3.0,185.0,3.0,0.0,0.0,0.0,0.0,0.0,233.0,5.0,23.0,11.0,0.0
+Windows7,32bit,VMProtect,Default,powershell.vmp.exe,235.0,8.0,146.0,46.0,40.0,0.0,0.0,0.0,0.0,0.0,233.0,153.0,115.0,251.0,255.0
+Windows7,32bit,VMProtect,Default,DFDWiz.vmp.exe,235.0,8.0,200.0,121.0,52.0,0.0,0.0,0.0,0.0,0.0,233.0,143.0,61.0,246.0,255.0
+Windows10,64bit,EnigmaProtector,Default,dvdplay_protected.exe,235.0,8.0,0.0,22.0,4.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows7,64bit,EnigmaProtector,Default,openfiles_protected.exe,235.0,8.0,0.0,132.0,4.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows10,64bit,EnigmaProtector,Default,mmc_protected.exe,235.0,8.0,0.0,36.0,16.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows7,64bit,EnigmaProtector,Default,setx_protected.exe,235.0,8.0,0.0,100.0,4.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows7,64bit,EnigmaProtector,Default,AdapterTroubleshooter_protected.exe,235.0,8.0,0.0,124.0,4.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows7,64bit,EnigmaProtector,Default,wevtutil_protected.exe,235.0,8.0,0.0,134.0,5.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows7,64bit,EnigmaProtector,Default,consent_protected.exe,235.0,8.0,0.0,26.0,5.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows7,64bit,EnigmaProtector,Default,SetIEInstalledDate_protected.exe,235.0,8.0,0.0,138.0,4.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows7,64bit,EnigmaProtector,Default,klist_protected.exe,235.0,8.0,0.0,60.0,4.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows10,64bit,EnigmaProtector,Default,GamePanel_protected.exe,235.0,8.0,0.0,202.0,10.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows7,64bit,EnigmaProtector,Default,bitsadmin_protected.exe,235.0,8.0,0.0,16.0,5.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows7,64bit,EnigmaProtector,Default,lsass_protected.exe,235.0,8.0,0.0,38.0,4.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows7,64bit,EnigmaProtector,Default,syskey_protected.exe,235.0,8.0,0.0,74.0,4.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows7,64bit,EnigmaProtector,Default,recover_protected.exe,235.0,8.0,0.0,12.0,4.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows7,64bit,EnigmaProtector,Default,eventcreate_protected.exe,235.0,8.0,0.0,78.0,4.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows7,64bit,EnigmaProtector,Default,rundll32_protected.exe,235.0,8.0,0.0,130.0,4.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows7,64bit,EnigmaProtector,Default,wuauclt_protected.exe,235.0,8.0,0.0,86.0,4.0,0.0,0.0,0.0,0.0,0.0,80.0,81.0,82.0,83.0,85.0
+Windows8,64bit,mpress,Default,sort.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,79.0,3.0,0.0,0.0,72.0
+Windows7,64bit,mpress,Default,fveprompt.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,79.0,3.0,0.0,0.0,72.0
+Windows7,64bit,mpress,Default,ocsetup.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows7,64bit,mpress,Default,wbemtest.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,tskill.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,79.0,3.0,0.0,0.0,72.0
+Windows7,64bit,mpress,Default,prevhost.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,79.0,3.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,DpiScaling.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,79.0,3.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,rundll32.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows7,64bit,mpress,Default,dispdiag.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows10,64bit,mpress,Default,hdwwiz.exe,72.0,131.0,236.0,40.0,232.0,87.0,4.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,2.0
+Windows7,64bit,mpress,Default,snmptrap.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,79.0,3.0,0.0,0.0,72.0
+Windows7,64bit,mpress,Default,newdev.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,79.0,3.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,bridgeunattend.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,79.0,3.0,0.0,0.0,72.0
+Windows10,64bit,mpress,Default,fontview.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows10,64bit,mpress,Default,msinfo32.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,cofire.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,79.0,3.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,MuiUnattend.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,IMESEARCH.EXE,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,BitLockerDeviceEncryption.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,fveprompt.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,forfiles.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows7,64bit,mpress,Default,clip.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows7,64bit,mpress,Default,SearchProtocolHost.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,msdt.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows7,64bit,mpress,Default,mctadmin.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows10,64bit,mpress,Default,Narrator.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,systemreset.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,dialer.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,RmClient.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,79.0,3.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,certutil.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows7,64bit,mpress,Default,tabcal.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,cttune.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,222.0,10.0,0.0,0.0,72.0
+Windows8,64bit,mpress,Default,replace.exe,87.0,86.0,83.0,81.0,82.0,65.0,80.0,72.0,141.0,5.0,79.0,3.0,0.0,0.0,72.0
+Windows10,64bit,Themida,Disable Level3,ComputerDefaults.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Ultra Level3,eudcedit.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,forfiles.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Disable Level3,AxInstUI.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Disable Level3,MRINFO.EXE,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Advanced Disable,DeviceProperties.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,eventvwr.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,whoami.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Advanced Level3,Magnify.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Advanced Level2,ntprint.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Advanced Level2,EhStorAuthn.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Disable Level3,Eap3Host.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,winrs.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Disable Level3,colorcpl.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,ImeBroker.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Disable Level3,WMPDMC.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,PresentationSettings.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Disable Level3,nslookup.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Disable Level3,iscsicli.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,systemreset.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,Taskmgr.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,TpmInit.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Ultra Disable,mobsync.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Default,credwiz.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Disable Level3,migwiz.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Disable Level3,MdSched.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Disable Level3,FXSCOVER.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,mcbuilder.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Disable Disable,ThemidaFXSSVC.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Ultra Disable,ComputerDefaults.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Ultra Level3,calc.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,PnPutil.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Disable Level3,rrinstaller.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Disable Level2,EhStorAuthn.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Disable Level3,compact.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Advanced Disable,cmmon32.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Advance Level2,wextract.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Disable Level3,drvinst.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Advanced Level2,LicenseManagerShellext.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Disable Level3,SearchProtocolHost.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,BitLockerWizard.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Default,DFDWiz.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Advanced Level2,fontview.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Disable Level3,osk.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,MultiDigiMon.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Disable Level3,wusa.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,taskeng.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Disable Level3,unlodctr.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Default,dvdplay.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Ultra Level1,bthudtask.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Default,cmdl32.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Disable Level3,DpiScaling.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Advanced Level2,cscript.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Disable Level3,DeviceEject.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Disable Level3,dispdiag.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,mfpmp.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Ultra Disable,hdwwiz.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Disable Level2,lpksetup.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Disable Level3,cscript.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,IMJPUEX.EXE,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,lpksetup.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Ultra Level3,cscript.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Advance Level2,regsvr32.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Disable Disable,ThemidaDevicePairingWizard.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,BitLockerWizardElev.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,wbengine.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Ultra Level2,mblctr.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Disable Level3,extrac32.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Advance Level2,p2phost.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Disable Level3,msdt.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Disable Level3,dpnsvr.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Advanced Level1,mblctr.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,fontview.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Advance Level2,mofcomp.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Disable Level3,oobeldr.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Disable Level3,MigRegDB.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Advanced Level2,msconfig.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Advanced Disable,LaunchTM.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Disable Level2,MdRes.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Advance Level2,unlodctr.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Ultra Level1,hdwwiz.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Disable Level3,lodctr.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Advanced Level3,DFDWiz.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Disable Level3,wsqmcons.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Advance Level2,iscsicpl.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Disable Level3,setx.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Themida,Advanced Level1,cleanmgr.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Disable Level3,TSWbPrxy.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows8,64bit,Themida,Disable Level3,RMActivate_ssp.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Advance Level2,mpnotify.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows7,64bit,Themida,Advance Level2,RunLegacyCPLElevated.exe,86.0,80.0,83.0,232.0,1.0,0.0,0.0,0.0,204.0,88.0,72.0,137.0,195.0,72.0,255.0
+Windows10,64bit,Original,Default,InstallAgent.exe,72.0,131.0,236.0,40.0,232.0,167.0,4.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,138.0
+Windows10,64bit,Original,Default,rekeywiz.exe,72.0,131.0,236.0,40.0,232.0,87.0,4.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,2.0
+Windows10,64bit,Original,Default,fsavailux.exe,72.0,131.0,236.0,40.0,232.0,39.0,2.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,138.0
+Windows10,64bit,Original,Default,mstsc.exe,72.0,131.0,236.0,40.0,232.0,119.0,8.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,2.0
+Windows7,64bit,Original,Default,tabcal.exe,72.0,131.0,236.0,40.0,232.0,63.0,3.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,210.0
+Windows10,64bit,Original,Default,ETDAniConf.exe,72.0,131.0,236.0,40.0,232.0,179.0,104.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,82.0
+Windows10,64bit,Original,Default,ResetEngine.exe,72.0,131.0,236.0,40.0,232.0,87.0,2.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,138.0
+Windows7,64bit,Original,Default,LocationNotifications.exe,72.0,131.0,236.0,40.0,232.0,163.0,2.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,218.0
+Windows7,64bit,Original,Default,FXSSVC.exe,72.0,131.0,236.0,40.0,232.0,51.0,6.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,210.0
+Windows10,64bit,Original,Default,UserAccountBroker.exe,72.0,131.0,236.0,40.0,232.0,7.0,3.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,138.0
+Windows10,64bit,Original,Default,DevicePairingWizard.exe,72.0,131.0,236.0,40.0,232.0,215.0,4.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,138.0
+Windows7,64bit,Original,Default,syskey.exe,72.0,131.0,236.0,40.0,232.0,111.0,2.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,98.0
+Windows10,64bit,Original,Default,pcwrun.exe,72.0,131.0,236.0,40.0,232.0,55.0,2.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,138.0
+Windows10,64bit,Original,Default,systray.exe,72.0,131.0,236.0,40.0,232.0,103.0,4.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,2.0
+Windows10,64bit,Original,Default,SystemPropertiesProtection.exe,72.0,131.0,236.0,40.0,232.0,23.0,2.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,138.0
+Windows10,64bit,Original,Default,WindowsActionDialog.exe,72.0,131.0,236.0,40.0,232.0,215.0,4.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,138.0
+Windows10,64bit,Original,Default,MultiDigiMon.exe,72.0,131.0,236.0,40.0,232.0,87.0,2.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,138.0
+Windows10,64bit,Original,Default,SpeechModelDownload.exe,72.0,131.0,236.0,40.0,232.0,215.0,5.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,42.0
+Windows10,64bit,Original,Default,UIMgrBroker.exe,72.0,131.0,236.0,40.0,232.0,7.0,5.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,138.0
+Windows10,64bit,Original,Default,SIHClient.exe,72.0,131.0,236.0,40.0,232.0,75.0,6.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,122.0
+Windows7,64bit,Original,Default,vsjitdebugger.exe,72.0,131.0,236.0,40.0,51.0,201.0,255.0,21.0,192.0,15.0,2.0,0.0,137.0,5.0,130.0
+Windows7,64bit,Original,Default,IMJPMGR.EXE,72.0,131.0,236.0,40.0,232.0,27.0,3.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,210.0
+Windows7,64bit,Original,Default,fsquirt.exe,72.0,131.0,236.0,40.0,232.0,143.0,3.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,218.0
+Windows10,64bit,Obsidium,Default,credwiz.exe,233.0,152.0,2.0,0.0,0.0,65.0,95.0,235.0,2.0,68.0,178.0,65.0,94.0,235.0,1.0
+Windows7,64bit,Obsidium,Default,diskperf.exe,65.0,84.0,235.0,1.0,229.0,72.0,131.0,236.0,80.0,235.0,2.0,77.0,54.0,72.0,137.0
+Windows8,64bit,Obsidium,Default,tzsync.exe,233.0,167.0,1.0,0.0,0.0,72.0,139.0,28.0,36.0,235.0,1.0,4.0,233.0,39.0,2.0
+Windows8,64bit,Obsidium,Default,tpmvscmgr.exe,233.0,128.0,1.0,0.0,0.0,233.0,76.0,4.0,0.0,0.0,235.0,2.0,138.0,75.0,15.0
+Windows8,64bit,Obsidium,Default,ddodiag.exe,233.0,133.0,2.0,0.0,0.0,117.0,31.0,235.0,1.0,72.0,144.0,233.0,199.0,1.0,0.0
+Windows8,64bit,Obsidium,Default,replace.exe,233.0,75.0,3.0,0.0,0.0,15.0,133.0,26.0,2.0,0.0,0.0,235.0,1.0,66.0,65.0
+Windows8,64bit,Obsidium,Default,ntprint.exe,233.0,22.0,3.0,0.0,0.0,77.0,139.0,203.0,235.0,1.0,64.0,76.0,59.0,219.0,235.0
+Windows8,64bit,Obsidium,Default,scrcons.exe,233.0,74.0,1.0,0.0,0.0,15.0,133.0,134.0,2.0,0.0,0.0,233.0,250.0,2.0,0.0
+Windows7,64bit,Obsidium,Default,hdwwiz.exe,233.0,75.0,3.0,0.0,0.0,15.0,133.0,104.0,1.0,0.0,0.0,233.0,125.0,0.0,0.0
+Windows7,64bit,Obsidium,Default,fontview.exe,233.0,191.0,2.0,0.0,0.0,116.0,67.0,235.0,1.0,72.0,144.0,233.0,237.0,0.0,0.0
+Windows8,64bit,Obsidium,Default,DevicePairingWizard.exe,233.0,35.0,2.0,0.0,0.0,72.0,139.0,28.0,36.0,235.0,3.0,216.0,170.0,136.0,235.0
+Windows8,64bit,Obsidium,Default,rekeywiz.exe,233.0,110.0,3.0,0.0,0.0,72.0,139.0,28.0,36.0,235.0,1.0,205.0,235.0,21.0,211.0
+Windows7,64bit,Obsidium,Default,ctfmon.exe,65.0,84.0,235.0,1.0,224.0,72.0,131.0,236.0,80.0,235.0,1.0,65.0,72.0,137.0,84.0
+Windows10,64bit,Obsidium,Default,DeviceEject.exe,233.0,224.0,2.0,0.0,0.0,184.0,113.0,128.0,7.0,128.0,235.0,1.0,28.0,65.0,247.0
+Windows8,64bit,Obsidium,Default,fontview.exe,233.0,22.0,2.0,0.0,0.0,65.0,51.0,199.0,112.0,215.0,73.0,193.0,239.0,32.0,235.0
+Windows8,64bit,Obsidium,Default,taskhost.exe,233.0,178.0,2.0,0.0,0.0,65.0,95.0,235.0,3.0,17.0,161.0,17.0,65.0,94.0,235.0
+Windows8,64bit,Obsidium,Default,fsutil.exe,235.0,18.0,72.0,114.0,65.0,15.0,133.0,99.0,3.0,0.0,0.0,233.0,102.0,3.0,0.0
+Windows8,64bit,Obsidium,Default,sdclt.exe,233.0,48.0,3.0,0.0,0.0,72.0,137.0,28.0,36.0,235.0,2.0,99.0,191.0,187.0,174.0
+Windows7,64bit,Obsidium,Default,smss.exe,65.0,84.0,235.0,2.0,66.0,49.0,72.0,131.0,236.0,80.0,235.0,2.0,101.0,32.0,72.0
+Windows7,64bit,Obsidium,Default,dfrgui.exe,233.0,14.0,3.0,0.0,0.0,139.0,208.0,235.0,3.0,140.0,162.0,3.0,68.0,139.0,208.0
+Windows7,64bit,Obsidium,Default,at.exe,233.0,39.0,1.0,0.0,0.0,77.0,51.0,246.0,118.0,2.0,135.0,92.0,77.0,51.0,255.0
+Windows8,64bit,Obsidium,Default,IMTCPROP.exe,235.0,63.0,52.0,55.0,203.0,72.0,137.0,28.0,36.0,235.0,2.0,232.0,107.0,187.0,174.0
+Windows7,64bit,Obsidium,Default,PnPUnattend.exe,233.0,201.0,3.0,0.0,0.0,139.0,208.0,235.0,2.0,128.0,61.0,68.0,139.0,208.0,235.0
+Windows8,64bit,Obsidium,Default,cscript.exe,233.0,127.0,0.0,0.0,0.0,77.0,51.0,246.0,121.0,3.0,233.0,83.0,148.0,77.0,51.0
+Windows7,64bit,Obsidium,Default,ie4uinit.exe,235.0,45.0,215.0,65.0,63.0,72.0,137.0,28.0,36.0,235.0,2.0,24.0,163.0,187.0,174.0
+Windows8,64bit,Obsidium,Default,net1.exe,233.0,33.0,2.0,0.0,0.0,76.0,141.0,29.0,228.0,255.0,255.0,255.0,235.0,1.0,101.0
+Windows8,64bit,Obsidium,Default,cttune.exe,65.0,84.0,235.0,2.0,160.0,95.0,72.0,131.0,236.0,80.0,235.0,3.0,190.0,42.0,244.0
+Windows7,64bit,Obsidium,Default,printui.exe,233.0,151.0,2.0,0.0,0.0,15.0,132.0,71.0,1.0,0.0,0.0,233.0,120.0,2.0,0.0
+Windows7,64bit,Obsidium,Default,gpscript.exe,233.0,192.0,0.0,0.0,0.0,76.0,141.0,29.0,228.0,255.0,255.0,255.0,235.0,1.0,64.0
+Windows8,64bit,Obsidium,Default,LocationNotifications.exe,233.0,168.0,1.0,0.0,0.0,15.0,133.0,229.0,1.0,0.0,0.0,233.0,19.0,2.0,0.0
+Windows7,64bit,Obsidium,Default,msiexec.exe,233.0,59.0,3.0,0.0,0.0,15.0,133.0,148.0,1.0,0.0,0.0,235.0,93.0,250.0,71.0
+Windows8,64bit,Obsidium,Default,fixmapi.exe,233.0,155.0,2.0,0.0,0.0,139.0,6.0,235.0,2.0,70.0,26.0,68.0,139.0,94.0,4.0
+Windows8,64bit,Obsidium,Default,Utilman.exe,233.0,140.0,1.0,0.0,0.0,15.0,182.0,1.0,235.0,1.0,205.0,72.0,255.0,193.0,235.0
+Windows10,64bit,Obsidium,Default,DFDWiz.exe,233.0,178.0,3.0,0.0,0.0,15.0,132.0,228.0,1.0,0.0,0.0,233.0,137.0,2.0,0.0
+Windows7,64bit,PESpin,Default,Magnify.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows10,64bit,PESpin,Default,GamePanel.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,regedt32.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows7,64bit,PESpin,Default,Defrag.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows7,64bit,PESpin,Default,DFDWiz.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,wininit.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows7,64bit,PESpin,Default,WinSAT.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,cliconfg.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows7,64bit,PESpin,Default,fltMC.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows7,64bit,PESpin,Default,DWWIN.EXE,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,bdechangepin.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,IMTCPROP.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows7,64bit,PESpin,Default,odbcconf.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows7,64bit,PESpin,Default,ditrace.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,tpmvscmgrsvr.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,VSSVC.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,tskill.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,dwm.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows7,64bit,PESpin,Default,CertEnrollCtrl.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,WUDFHost.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows7,64bit,PESpin,Default,setupsqm.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows10,64bit,PESpin,Default,cliconfg.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,regsvr32.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows7,64bit,PESpin,Default,ucsvc.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows10,64bit,PESpin,Default,hwrreg.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,IMTCLNWZ.EXE,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,mstsc.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,WpcMon.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows7,64bit,PESpin,Default,sfc.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,DisplaySwitch.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows7,64bit,PESpin,Default,wisptis.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows7,64bit,PESpin,Default,EhStorAuthn.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,secinit.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows8,64bit,PESpin,Default,ktmutil.exe,85.0,72.0,129.0,236.0,144.0,0.0,0.0,0.0,72.0,141.0,108.0,36.0,40.0,72.0,137.0
+Windows7,64bit,UPX,Default,qappsrv.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,117.0,215.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,lodctr.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,149.0,176.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,ipconfig.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,37.0,202.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,bootcfg.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,101.0,122.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows7,64bit,UPX,Default,rdpsign.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,181.0,150.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows7,64bit,UPX,Default,wecutil.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,229.0,98.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,findstr.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,21.0,194.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,regini.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,69.0,178.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,BitLockerDeviceEncryption.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,101.0,63.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,rasdial.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,149.0,225.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows7,64bit,UPX,Default,MdRes.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,149.0,226.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,recimg.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,37.0,25.0,252.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,TCPSVCS.EXE,83.0,86.0,87.0,85.0,72.0,141.0,53.0,229.0,241.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,eventcreate.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,229.0,185.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,wuapp.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,69.0,196.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows10,64bit,UPX,Default,FXSSVC.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,101.0,84.0,252.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,finger.exe,72.0,131.0,236.0,40.0,232.0,27.0,5.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,14.0
+Windows8,64bit,UPX,Default,lpksetup.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,117.0,91.0,252.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,unregmp2.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,133.0,20.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows7,64bit,UPX,Default,repair-bde.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,229.0,160.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows7,64bit,UPX,Default,TsUsbRedirectionGroupPolicyControl.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,245.0,246.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows7,64bit,UPX,Default,dnscacheugc.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,69.0,210.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,WmiPrvSE.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,213.0,188.0,253.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,help.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,53.0,241.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,dispdiag.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,133.0,123.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,Fondue.exe,72.0,131.0,236.0,40.0,232.0,107.0,2.0,0.0,0.0,72.0,131.0,196.0,40.0,233.0,110.0
+Windows7,64bit,UPX,Default,ditrace.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,245.0,95.0,254.0,255.0,72.0,141.0,190.0,0.0
+Windows7,64bit,UPX,Default,psr.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,53.0,235.0,250.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,wininit.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,229.0,34.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows10,64bit,UPX,Default,DFDWiz.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,21.0,169.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows8,64bit,UPX,Default,UserAccountBroker.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,85.0,216.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows7,64bit,UPX,Default,tscon.exe,83.0,86.0,87.0,85.0,72.0,141.0,53.0,245.0,215.0,255.0,255.0,72.0,141.0,190.0,0.0
+Windows10,64bit,VMProtect,Default,fsquirt.vmp.exe,235.0,8.0,219.0,190.0,0.0,0.0,0.0,0.0,0.0,0.0,233.0,147.0,104.0,5.0,0.0
+Windows10,64bit,VMProtect,Default,nslookup.vmp.exe,235.0,8.0,254.0,80.0,2.0,0.0,0.0,0.0,0.0,0.0,233.0,199.0,70.0,253.0,255.0
